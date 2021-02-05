@@ -3,4 +3,4 @@ Make sure to download and unzip the libraries in the appropriate Arduino Librari
 Once that's done, format the micro SD card you will be using. Import the audio file titled "1.wav" into the micro SD card. This wav file has been modified for easy use for the Arduino Nano. However, the original audio file is also provided if needed.
 
 Now just wire everything correctly as shown in the schematic and upload the main .ino code to your Arduino Nano.
-![alt text](https://github.com/Xavi009/tf2_sentry_gun_code//image.jpg?raw=true)
+![alt text](https://github.com/Xavi009/tf2_sentry_gun_code/Sentry Gun Schematic.png?raw=true)
